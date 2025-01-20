@@ -35,7 +35,7 @@ generated_text = tokenizer.decode(outputs[0], skip_special_tokens=True)
 
 - Training Loss: <0.09
 - Successfully captures Shakespearean linguistic patterns and style
-- Fine-tuned on A100 GPUs for optimal performance
+- Fine-tuned on RTX 4060 8GB
 
 ## 💻 Usage Examples
 
